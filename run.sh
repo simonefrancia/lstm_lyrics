@@ -1,0 +1,1 @@
+docker run -it --rm -v `pwd`:/root/src python:3.6.9-buster bash

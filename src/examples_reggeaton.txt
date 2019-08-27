@@ -1,0 +1,75 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"reparo le dije claro negra vamos al grano 
+ me"
+reparo le dije claro negra vamos al grano 
+ me que la que me 
+ que me el 
+ que no que se 
+ no te cuerpo 
+ no que me que 
+ y me que no que la que no yo 
+ que te que no no la la 
+ que lo que te la 
+ la la 
+
+----- Diversity:0.4
+----- Generating with seed:
+"reparo le dije claro negra vamos al grano 
+ me"
+reparo le dije claro negra vamos al grano 
+ me la que no no te 
+ que que me 
+ te que me desde 
+ no no tu no la 
+ y el lo 
+ que que no la 
+ yo que la noche 
+ y se la que que mi te lo 
+ y que la me 
+ que
+----- Diversity:0.5
+----- Generating with seed:
+"reparo le dije claro negra vamos al grano 
+ me"
+reparo le dije claro negra vamos al grano 
+ me que una voy el que te yo 
+ no no la q me de la amor 
+ que la quiero 
+ a que yo que se se 
+ que no te 
+ que te lo me del y tu me 
+ la la de que de no 
+ mi el
+----- Diversity:0.6
+----- Generating with seed:
+"reparo le dije claro negra vamos al grano 
+ me"
+reparo le dije claro negra vamos al grano 
+ me te lo de que esto la ha we 
+ que tu es y la arriba 
+ que no te la que tu 
+ el a 
+ me ella el de el el 
+ me mí 
+ yo y no te que hacer 
+ pero tu la un lo 
+ dale
+----- Diversity:0.7
+----- Generating with seed:
+"reparo le dije claro negra vamos al grano 
+ me"
+reparo le dije claro negra vamos al grano 
+ me luigi que un yall 
+ y mente que te aqui 
+ me r que que la 
+ tu te toque 
+ de no soy se que te me vamoa 
+ quiero 
+ van 
+ pa esta el culo en 
+ si no tu en que usted 
+ por yo te
+================================================================================
